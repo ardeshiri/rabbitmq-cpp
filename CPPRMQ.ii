@@ -1,0 +1,36 @@
+# 1 "/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPRMQ.cpp"
+# 1 "/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "<command-line>" 2
+# 1 "/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPRMQ.cpp"
+# 1 "include/CPPRMQ.h" 1
+
+
+
+namespace Arax{
+
+class CPPRMQ
+{
+    public:
+        CPPRMQ();
+        ~CPPRMQ();
+
+    protected:
+
+    private:
+};
+
+}
+# 2 "/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPRMQ.cpp" 2
+
+Arax::CPPRMQ::CPPRMQ()
+{
+
+}
+
+Arax::CPPRMQ::~CPPRMQ()
+{
+
+}

@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1602222827 source:/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<assert.h>
+	"CPPAMQP.h"
+
+1579264405 source:/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPRMQ.cpp
+	"CPPRMQ.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1579266649 /home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/include/CPPRMQ.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+
+1602222086 /home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/include/CPPAMQP.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<set>
+	<tuple>
+	<iostream>
+
+1602221885 source:/home/snake/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPAMQP.cpp
+	"CPPAMQP.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1600443700 source:/media/user/9846-5BDE/cods/RMQ_CPP_LIB/main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<assert.h>
+	"CPPAMQP.h"
+
+1600491454 /media/user/9846-5BDE/cods/RMQ_CPP_LIB/include/CPPAMQP.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<set>
+	<tuple>
+	<iostream>
+
+1600491576 source:/media/user/9846-5BDE/cods/RMQ_CPP_LIB/src/CPPAMQP.cpp
+	"CPPAMQP.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1600506979 source:/home/user/cods/RMQ_CPP_LIB/main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<assert.h>
+	"CPPAMQP.h"
+
+1600506272 /home/user/cods/RMQ_CPP_LIB/include/CPPAMQP.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<set>
+	<tuple>
+	<iostream>
+
+1600506866 source:/home/user/cods/RMQ_CPP_LIB/src/CPPAMQP.cpp
+	"CPPAMQP.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1608535885 source:/media/icarus/GW Outerheaven/laptopbackup/Cods/CodeBlocks/RMQ_CPP_LIB/main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<assert.h>
+	"CPPAMQP.h"
+
+1608534730 /media/icarus/GW Outerheaven/laptopbackup/Cods/CodeBlocks/RMQ_CPP_LIB/include/CPPAMQP.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<set>
+	<tuple>
+	<iostream>
+
+1608535956 source:/media/icarus/GW Outerheaven/laptopbackup/Cods/CodeBlocks/RMQ_CPP_LIB/src/CPPAMQP.cpp
+	"CPPAMQP.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1608545537 source:/home/icarus/Coding/Codeblocks/my_amqp_lib/CPP_AMQP/src/CPPAMQP.cpp
+	"CPPAMQP.h"
+	<exception>
+	<iostream>
+	<vector>
+	<cstring>
+
+1608545537 /home/icarus/Coding/Codeblocks/my_amqp_lib/CPP_AMQP/include/CPPAMQP.h
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<amqp_tcp_socket.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<set>
+	<tuple>
+	<iostream>
+
+1608545726 source:/home/icarus/Coding/Codeblocks/my_amqp_lib/CPP_AMQP/main.cpp
+	<iostream>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<amqp.h>
+	<amqp_ssl_socket.h>
+	<assert.h>
+	"CPPAMQP.h"
+
