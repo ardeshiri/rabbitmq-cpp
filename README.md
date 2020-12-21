@@ -1,7 +1,7 @@
 # CPP_AMQP
-It is basically just a simple C++ wrapper written by me(ardeshiri) around rabbitmq-c library by Alan Antonuk at (alanxz at https://github.com/alanxz/rabbitmq-c).
+It is basically just a simple C++ wrapper written by me(ardeshiri) around rabbitmq-c library by Alan Antonuk at (alanxz: https://github.com/alanxz/rabbitmq-c).
 This simple wrapper is by no means neither complete, nor will be. It is developed to be used in a hobbyist IOT project and will change and evolve during time with no warning.
-It needs raccitmq-c library installed. Use -lrabbitmq to link properly.
+It needs rabbitmq-c library installed. Use -lrabbitmq to link properly.
 
 tutorials:
 
