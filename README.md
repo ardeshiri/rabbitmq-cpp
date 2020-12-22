@@ -96,7 +96,7 @@ rmq.send_stream(cin, 1,"exchange","routing_key", 0, 0);
 
 
 a simple complete program is provided in main.
-
+**********the public and private keys in key dir where test keys and are deprecated and no longer used**********
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
